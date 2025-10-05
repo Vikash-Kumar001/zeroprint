@@ -11,7 +11,15 @@ firebase-debug.*.log*
 .firebase/
 
 # Firebase config
+<<<<<<< HEAD
 # .firebaserc  # Uncomment only if you don’t want to share Firebase project settings
+=======
+
+# Uncomment this if you'd like others to create their own Firebase project.
+# For a team working on the same Firebase project(s), it is recommended to leave
+# it commented so all members can deploy to the same project(s) in .firebaserc.
+# .firebaserc
+>>>>>>> e1e52b7 (feat: backend and frontend project setup)
 
 # Runtime data
 pids
@@ -42,7 +50,10 @@ build/Release
 
 # Dependency directories
 node_modules/
+<<<<<<< HEAD
 functions/node_modules/
+=======
+>>>>>>> e1e52b7 (feat: backend and frontend project setup)
 
 # Optional npm cache directory
 .npm
@@ -61,11 +72,14 @@ functions/node_modules/
 
 # dotenv environment variables file
 .env
+<<<<<<< HEAD
 functions/.env
 functions/.env.local
 
 # Firebase service account key
 functions/serviceAccountKey.json
+=======
+>>>>>>> e1e52b7 (feat: backend and frontend project setup)
 
 # dataconnect generated files
 .dataconnect

@@ -1,2 +1,13 @@
+<<<<<<< HEAD
+=======
+# Compiled JavaScript files
+lib/**/*.js
+lib/**/*.js.map
+
+# TypeScript v1 declaration files
+typings/
+
+# Node.js dependency directory
+>>>>>>> e1e52b7 (feat: backend and frontend project setup)
 node_modules/
 *.local
